@@ -1,0 +1,5 @@
+print("หาพื้นที่สามเหลี่ยม")
+base = int(input("รับค่าฐาน : "))
+height = input("รับค่าสูง : ")
+area = 1/2*base*int(height)
+print("คำตอบ " + str(area))
